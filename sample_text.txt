@@ -1,6 +1,0 @@
-Python is a high-level programming language. Python is widely used for web development, 
-data analysis, artificial intelligence, and scientific computing. Python's syntax is clean and readable.
-Many developers love Python because of its simplicity and versatility. Python has a vast ecosystem 
-of libraries and frameworks. Machine learning with Python is very popular. Python is beginner-friendly.
-The Python community is large and supportive. Python continues to grow in popularity every year.
-Data science and Python go hand in hand. Python is the future of programming.
